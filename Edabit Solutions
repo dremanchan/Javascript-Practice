@@ -1,0 +1,85 @@
+Returning the Sum of 2 numbers
+
+function addition(a, b) {
+return result = a + b;
+}
+
+Converting Minutes to Seconds
+
+function convert(minutes) {
+	return Math.floor(minutes * 60);
+	}
+  
+  Find the Perimeter of a Rectangle
+  
+  function findPerimeter(length, width) {
+	return Math.floor(2 * length + 2 * width);
+	}
+  
+  Return the Next Number from the Integer Passed
+  
+  function addition(num) {
+	return num +1;
+}
+
+Area of a Triangle
+
+function triArea(base, height) {
+	return (base * height) / 2
+}
+
+Convert Age to Days
+
+function calcAge(age) {
+	return (age * 365);
+}
+
+Buggy Code (Part 1)
+
+function cubes(a) {
+	return a ** 3
+}
+
+Return the First Element in an Array
+
+function getFirstValue(arr) {
+	return arr[0];
+}
+
+Power Calculator
+
+function circuitPower(voltage, current) {
+	return (voltage * current);
+}
+
+Convert Hours into Seconds
+
+function howManySeconds(hours) {
+	return (hours * 3600);
+}
+
+Maximum Edge of a Triangle
+
+function nextEdge(side1, side2) {
+	return (side1 + side2) -1
+}
+
+Return the Remainder from Two Numbers
+
+function remainder(x, y) {
+	return x % y;
+}
+
+Return Something to Me!
+
+function giveMeSomething(a) {
+	let str1 = "something "
+	return str1 + a
+}
+
+Correct the Mistakes
+
+function squared(b) {
+	return b * b
+}
+
